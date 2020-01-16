@@ -15,3 +15,5 @@
 7. external-noscript.js - include external javascript without using script tags
 
 8. replace-img.js - replace old image by new image in JS
+
+9. autocomplete-timer.js - wait for 10s and submit the form to the attacker server
