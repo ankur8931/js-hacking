@@ -8,3 +8,5 @@
 	         to different page
 4. keylogger.js - loggin keystrokes to SimpleHTTPServer running on port 9000
 
+5. event-listener.js - Listen to form submit event and show password in the pop up alert box
+
