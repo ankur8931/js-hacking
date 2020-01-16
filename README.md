@@ -13,3 +13,5 @@
 6. external.js - running external js from script source to bypass any code limitation checks
 
 7. external-noscript.js - include external javascript without using script tags
+
+8. replace-img.js - replace old image by new image in JS
