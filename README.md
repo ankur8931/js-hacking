@@ -10,3 +10,4 @@
 
 5. event-listener.js - Listen to form submit event and show password in the pop up alert box
 
+6. external.js - running external js from script source to bypass any code limitation checks
