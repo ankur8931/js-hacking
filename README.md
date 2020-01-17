@@ -19,3 +19,5 @@
 9. autocomplete-timer.js - wait for 10s and submit the form to the attacker server
 
 10. xmlhttpreq.js -  XML http request to send form submit parameters to the attacker server
+
+11. xmlhttpreq-fetch.js - Fetch email from provided URL using XML http request 
