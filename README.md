@@ -20,4 +20,6 @@
 
 10. xmlhttpreq.js -  XML http request to send form submit parameters to the attacker server
 
-11. xmlhttpreq-fetch.js - Fetch email from provided URL using XML http request 
+11. xmlhttpreq-fetch.js - Fetch email from provided URL using XML http request
+
+12. data-exfil.js - Exfiltration of Credit card information to the attacker server
