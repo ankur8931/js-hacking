@@ -23,3 +23,5 @@
 11. xmlhttpreq-fetch.js - Fetch email from provided URL using XML http request
 
 12. data-exfil.js - Exfiltration of Credit card information to the attacker server
+
+13. csrf-token.js - Extract CSRF token and submit to web 
