@@ -24,4 +24,6 @@
 
 12. data-exfil.js - Exfiltration of Credit card information to the attacker server
 
-13. csrf-token.js - Extract CSRF token and submit to web 
+13. csrf-token.js - Extract CSRF token and submit to web
+
+14. csrf-token-uid.js - Extract the email using UID, and CSRF token. Display the email address on the page.
