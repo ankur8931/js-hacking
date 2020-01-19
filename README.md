@@ -29,3 +29,5 @@
 14. csrf-token-uid.js - Extract the email using UID, and CSRF token. Display the email address on the page.
 
 15. html-parsing.js - Parse HTML response by exploiting xss and insert addess into div result
+
+16. multi-level-html.js - Extract credit card number via multi-level HTML documents and post to the server
