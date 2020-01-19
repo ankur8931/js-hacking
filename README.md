@@ -27,3 +27,5 @@
 13. csrf-token.js - Extract CSRF token and submit to web
 
 14. csrf-token-uid.js - Extract the email using UID, and CSRF token. Display the email address on the page.
+
+15. html-parsing.js - Parse HTML response by exploiting xss and insert addess into div result
